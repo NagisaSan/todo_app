@@ -107,6 +107,5 @@
         }
       }
     }
-  },
-  "defaultProject": "todo_app_redux"
+  }
 }
